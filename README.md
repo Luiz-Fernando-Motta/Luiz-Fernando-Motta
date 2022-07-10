@@ -6,9 +6,9 @@
 ⚔️ Vou lutar para entrar nesse mercado de trabalho💪.<br>
 <h2 align=center>
 <h2>Um pouco da minha história até aqui</h2>
-Nasci em Içara, SC. Uma cidade particularmente chata no sul de Santa Catarina. Fui criado pela minha mãe, Dona Adriana, que se esfrorçou e conseguiu me colocar
+Nasci em Içara, SC. Uma cidade particularmente chata no sul de Santa Catarina. Fui criado pela minha mãe, Dona Adriana, que se esforçou e conseguiu me colocar na
 universidade federal, no caso a UFSC. Entrei na universidade em 2011, me formando em Arquitetura e Urbanismo em 2019. Tenho muito carinho pelos anos que passei
-no curso e também pela profissão. Porém não consegui entrar no mercado de trabalho, indo trabalhar de auxiliar de confentaria 🤷🏽‍♂️, afinal de contas não da para
+no curso e também pela profissão. Porém não consegui entrar no mercado de trabalho, indo trabalhar de auxiliar de confeitaria 🤷🏽‍♂️, afinal de contas não dá para
 deixar de pagar os boletos.<br>
 Durante esse periódo comecei a ter bastante interesse na área de tecnologia, principalmente em programação e Front End Dev. Conheci o canal no Youtube Curso em
 Video, começando a cursar o Modulo 1 de HTML5 e CSS3.<br>
